@@ -1,18 +1,3 @@
-/*
-Pin 5 - Output
-Pin 6 - Output
-Pin 7 - Output
-Pin 8 - Output
-Pin 9 - Output
-Pin 10 - Output
-Pin 11 - Output
-
-BEHAVIOR:
-Step 1: It turns on led one by one from 5 to 11
-Step 2: It turns on led 8, 7 and 9, 6 and 10, 5 and 11
-Step 3: Then repeat step 1
-*/
-
 int dTime = 1000;
 
 int led = 5;
